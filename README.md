@@ -4,7 +4,7 @@ Q-SAR is a multi-tier autonomous drone swarm system designed to enhance Search a
 
 ## 📺 Project Media
 Check out our project in action:
-* **[Watch the Project Demo Video](https://youtu.be/cx8ZfYzPQw8)** - A walkthrough of the swarm coordination, radar detection, and the Command-and-Control Center interface.
+* **[Watch the Project Demo Video](https://youtu.be/QRfBWPBJPi8)** - A walkthrough of the swarm coordination, radar detection, and the Command-and-Control Center interface.
 
 ## 🚀 Key Features
 - **Two-Tier Swarm Architecture**: High-Altitude Drones (HAD) for initial scanning and Low-Altitude Drones (LAD) for precision detection.
